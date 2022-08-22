@@ -1,0 +1,35 @@
+header{
+    text-align: center;
+    background-image: url('/root/img/f20c82e3c4f10ac31d5a388adc843ccc.jpg');
+}
+h1{
+    background-color: rgb(201, 201, 201);
+    color: rgb(48, 103, 185);
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+h3{
+    background-color: rgb(201, 201, 201);
+    color: rgb(48, 103, 185);
+    text-transform: uppercase;
+    font-family: 'Silkscreen', cursive;
+}
+h2{
+    background-color: rgb(201, 201, 201);
+    color: rgb(48, 103, 185);
+    text-transform: uppercase;
+    font-family: 'Silkscreen', cursive;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+footer{
+    background-color: rgb(48, 103, 185);
+    color: white;
+    text-align: center;
+}
+img{
+    width: 154px;
+    height: 192px;
+}
